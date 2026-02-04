@@ -47,3 +47,6 @@ npm -v
 
 npm install
 npm run develop
+
+open security group ports for strapi app 
+http://<publicIp>:1337/admin
