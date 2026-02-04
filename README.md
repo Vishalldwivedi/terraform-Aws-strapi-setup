@@ -50,3 +50,5 @@ npm run develop
 
 open security group ports for strapi app 
 http://<publicIp>:1337/admin
+
+loom video -> https://www.loom.com/share/40183ded600d41c0987c4e26d3730eed
